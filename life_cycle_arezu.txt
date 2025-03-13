@@ -1,0 +1,122 @@
+1.Untracked
+
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	hello_from_Arezu.py
+	life_cycle_arezu.txt
+	python-exercise-participants/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2.Staged
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   hello_from_Arezu.py
+	new file:   life_cycle_arezu.txt
+	new file:   python-exercise-participants
+
+3.Unmodified
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   hello_from_Arezu.py
+        new file:   life_cycle_arezu.txt
+        new file:   python-exercise-participants
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   life_cycle_arezu.txt
+
+4.Untracked
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   life_cycle_arezu.txt
+	new file:   python-exercise-participants
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	hello_from_Arezu.py
+
+5.Staged
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   hello_from_Arezu.py
+	new file:   life_cycle_arezu.txt
+	new file:   python-exercise-participants
+
+6.Unmodified
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   hello_from_Arezu.py
+	new file:   life_cycle_arezu.txt
+	new file:   python-exercise-participants
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   life_cycle_arezu.txt
+
+7.Modified
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   hello_from_Arezu.py
+	new file:   life_cycle_arezu.txt
+	new file:   python-exercise-participants
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   hello_from_Arezu.py
+	modified:   life_cycle_arezu.txt
+
+8.Staged
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   hello_from_Arezu.py
+	new file:   life_cycle_arezu.txt
+	new file:   python-exercise-participants
+
+9.Unmodified
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   hello_from_Arezu.py
+	new file:   life_cycle_arezu.txt
+	new file:   python-exercise-participants
+
